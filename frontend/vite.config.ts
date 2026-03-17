@@ -53,5 +53,5 @@ export default defineConfig({
       "@": `${__dirname}/src`,
     },
   },
-  base: "/alternative-tsukuba-kdb/",
+  base: "/alternative-tsukuba-kdb-2026-pre/",
 });
